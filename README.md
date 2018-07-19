@@ -10,7 +10,7 @@
   * [_X_ crossover](#_x_-crossover)
   * [_XX_ crossover](#_xx_-crossover)
   * [_XI_ crossover](#_xi_-crossover)  
-- [Python scipts](#python-scripts)
+- [Python scripts](#python-scripts)
   * [Requirements](#requirements)
   * [Script outputs](#script-outputs)
     

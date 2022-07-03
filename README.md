@@ -156,13 +156,13 @@ See the docstring in Balun_XI_Example for turn ratio limitations.
 
 ___
 
-## Python scripts
+## Python scripts (updated for gdspy 1.6.12)
 The motivation for these scripts is to simplify the generation of these complex structures for electromagnetic simulations.
 There are probably infinite ways to realize these types of baluns. Three of which are explicated with the example scripts. 
 
 ### Requirements
 * [Python 3.x](http://www.python.org/) 
-* [Gdspy](https://github.com/heitzmann/gdspy)
+* [Gdspy 1.6.12](https://github.com/heitzmann/gdspy)
 
 ### Script outputs
 
